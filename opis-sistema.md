@@ -7,4 +7,9 @@ evidentira posuđivanje i povrat knjiga.
 ## Korisnici sistema 
 - Član biblioteke 
 - Bibliotekar
-- Direktor biblioteke 
+- Direktor biblioteke
+
+## Osnovni zahtjevi:
+- Član biblioteke može pretraživati knjige po autoru i naslovu
+- Član biblioteke može pristupati popisu svojih pozajmica
+- Bibliotekar može evidentirati pozajmice i povrat knjiga
