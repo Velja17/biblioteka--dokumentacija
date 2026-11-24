@@ -1,0 +1,3 @@
+- Član uzima knjigu
+- Predaje Karticu
+- Bibliotekar ga upisuje u evidenciju
