@@ -1,0 +1,1 @@
+- Obavještava se član biblioteke da jenjegovo vrijeme za pozajmljivanje knjige isteklo !
